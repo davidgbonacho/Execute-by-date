@@ -1,6 +1,6 @@
 
 # Execute by date
-how to use date() function as a switch to execute code
+how to use date() function as a switch to execute code.
 
 `[SimPIL are a series of ultra-simple examples of how to perform different operations with code. Uncomplicated.]`
 
@@ -33,4 +33,3 @@ if($exeByDate){
 ---
 `título:` mySQLi function [`SimPIL`] 04/13/24\
 `autor:` David G. Bonacho &nbsp;&nbsp;  [www.tizedit.com](https://www.tizedit.com)
-
