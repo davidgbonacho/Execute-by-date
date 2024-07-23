@@ -1,6 +1,6 @@
 
 # Execute by date
-how to use date() function as a switch to execute code.
+how to use date() function as a switch to execute code in your app.
 
 `[SimPIL are a series of ultra-simple examples of how to perform different operations with code. Uncomplicated.]`
 
