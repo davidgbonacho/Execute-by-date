@@ -31,5 +31,5 @@ if($exeByDate){
 
 ![](img/logo.svg)
 ---
-`título:` mySQLi function [`SimPIL`] 04/13/24\
+`título:` execute by date [`SimPIL`] 04/13/24\
 `autor:` David G. Bonacho &nbsp;&nbsp;  [www.tizedit.com](https://www.tizedit.com)
