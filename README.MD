@@ -5,7 +5,7 @@ how to use date() function as a switch to execute code in your app.
 `[SimPIL are a series of ultra-simple examples of how to perform different operations with code. Uncomplicated.]`
 
 ## Install
-No need to install anything, just look at the code.
+No need to install anything, just look at the code. 
 
 ## Perform
 Simply use this code to execute certain code based on the current date of the server
