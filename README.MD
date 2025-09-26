@@ -26,7 +26,7 @@ if($exeByDate){
 
 ## Files
 - index.php with this simple code
-- img/logo.svg: only important images are here 
+- img/logo.svg: only important images are here
 
 [Texto en español aquí](README_ES.MD)
 
