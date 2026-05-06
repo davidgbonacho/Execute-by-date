@@ -28,6 +28,8 @@ if($exeByDate){
 - index.php with this simple code
 - img/logo.svg: only important images are here
 
+
+>[!NOTE]
 [Texto en español aquí](README_ES.MD)
 
 ![](img/logo.svg)
